@@ -1,7 +1,0 @@
-kissa - cat
-auto - car
-roska - garbage
-kissa - cat
-roska - garbage
-laukku - bag
-auto - car
